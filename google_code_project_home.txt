@@ -1,0 +1,12 @@
+gens-rerecording
+Genesis emulator for the TAS community
+
+The Gens rerecording project, a Sega Genesis, 32x, Sega CD emulator.
+
+The primary purpose is to expand features related to creating Tool-Assisted (http://tasvideos.org/) movies.
+
+Movie
+
+.gmv movie file format (http://code.google.com/p/gens-rerecording/wiki/GMV)
+
+(Saved: March 16, 2015)
